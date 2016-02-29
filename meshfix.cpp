@@ -2,6 +2,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+
+//dsds
+
 const char *input_filename;
 
 double closestPair(List *bl1, List *bl2, Vertex **closest_on_bl1, Vertex **closest_on_bl2)
